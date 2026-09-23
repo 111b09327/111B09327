@@ -2,7 +2,7 @@
 
 I'm kaiwei
 
-born in 2003
+Born in 2003
 
 A college student in Tainan
 
