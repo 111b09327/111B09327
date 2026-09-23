@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 I'm kaiwei
+born in 2003
+A college student in Tainan
+I'm interested in movie, travel, K-pop, matcha
+Certifications: Abacus, IAFT 國際航空票務從誒人員認證
 <!--
 **111b09327/111B09327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
